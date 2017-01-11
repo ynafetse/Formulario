@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Data</string>
+    <string name="Nombre_Completo">Name</string>
+    <string name="Telefono">Phone</string>
+    <string name="Email">Email</string>
+    <string name="Descripcion">Description</string>
+    <string name="button_name">Birthdate</string>
+    <string name="button_name1">Next</string>
+    <string name="textView">Selected Date</string>
+    
+    <string name="Tittle_Activity2">Data Confirmation</string>
+    <string name="Name_confirm">Estefany Aguilar</string>
+    <string name="Bd_confirm">1 de febrero de 1994</string>
+    <string name="Phone_confirm">333555</string>
+    <string name="Email_confirm">estefanyaguilar.r@gmail.com</string>
+    <string name="Description_confirm">Me encanta comer dulces :D</string>
+    <string name="button_edit">Edit</string>7
+
+    <string name="pNombre">nombre</string>
+    <string name="pFecha">fecha</string>
+    <string name="pTelefono">telefono</string>
+    <string name="pCorreo">correo</string>
+    <string name="pDescripcion">descripcion</string>
+
+    <string name="pNombree">nombree</string>
+</resources>
